@@ -25,6 +25,8 @@ insert into test6 values('IND');
 insert into test6 values('I    ');
 select * from test6;
 
+#DBA
+
 
 
 
