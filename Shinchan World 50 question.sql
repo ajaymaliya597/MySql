@@ -1,5 +1,6 @@
 use shinchan_world;
 show tables;
+
 select * from topper_students;
 select city,count(*)
 from students

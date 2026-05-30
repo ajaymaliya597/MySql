@@ -9,7 +9,7 @@ class_id int primary key,
 batch_name varchar(20),
 batch_id int,
 foreign key (batch_id)
-references student(id)
+references student(id) # bhar ata table(column)
 );
 insert into class values(1,'Python',1),(2,'Raj',2),(3,'SQL',1);
 

@@ -33,3 +33,21 @@ on e.course_id =  c.course_id
 group by s.name
 having count(*) > 2
 ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
