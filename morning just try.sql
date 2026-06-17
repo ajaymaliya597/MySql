@@ -6,3 +6,11 @@ select customer_id from customers where city = 'Mumbai')
 );
 show tables;
 select * from orders;
+
+SELECT
+    emp_name,
+    department,
+    salary,
+    AVG(salary) OVER(PARTITION BY department) AS dept_avg
+FROM employees;
+

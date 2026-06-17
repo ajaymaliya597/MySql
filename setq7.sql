@@ -1,5 +1,4 @@
 # qset 7
-
 use  set7s;
 -- Q1
 SELECT emp_name, department, salary
