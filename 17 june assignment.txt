@@ -1,0 +1,7 @@
+q plsql mein armstrong no.
+q ek row ko induvidualy acess kar paaye cursor ke throuh
+q create a function wehich takes a email column and return name@gmail.com
+q first_name + last name ko combine kar kar gmail.com
+wirte a tabular differnce between procedures and function
+q triggers ?uses
+q insert update trigger on a table

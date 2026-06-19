@@ -18,3 +18,4 @@ INSERT INTO Departments VALUES (10, 'HR');
 INSERT INTO Departments VALUES (20, 'IT');
 INSERT INTO Departments VALUES (40, 'Finance');
 select * from Employees;
+select * from departments;
